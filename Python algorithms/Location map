@@ -1,0 +1,4 @@
+import folium
+locate = folium.Map(location=[85.8245,20.2961])
+locate.save("location1.html")
+
